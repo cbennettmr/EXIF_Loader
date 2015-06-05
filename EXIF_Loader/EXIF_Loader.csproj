@@ -7,8 +7,8 @@
     <ProjectGuid>{DC779894-A6DE-4B17-9A95-BF6A5D8822A7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EXIF_Reader</RootNamespace>
-    <AssemblyName>EXIF_Reader</AssemblyName>
+    <RootNamespace>EXIF</RootNamespace>
+    <AssemblyName>EXIF_Loader</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>b8e0855e</NuGetPackageImportStamp>
@@ -61,6 +61,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DbClient.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

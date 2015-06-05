@@ -5,7 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EXIF_Reader
+using System.Data.SQLite;
+
+namespace EXIF
 {
     class Program
     {

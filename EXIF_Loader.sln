@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXIF_Loader", "EXIF_Loader\EXIF_Loader.csproj", "{DC779894-A6DE-4B17-9A95-BF6A5D8822A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{A8E19974-C612-4CCA-803C-17D22E667410}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DC779894-A6DE-4B17-9A95-BF6A5D8822A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC779894-A6DE-4B17-9A95-BF6A5D8822A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC779894-A6DE-4B17-9A95-BF6A5D8822A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E19974-C612-4CCA-803C-17D22E667410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E19974-C612-4CCA-803C-17D22E667410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E19974-C612-4CCA-803C-17D22E667410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E19974-C612-4CCA-803C-17D22E667410}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
